@@ -1,4 +1,7 @@
 # ByteHive PlayoutBee
+Warning at the Moment its broken email me at jonas@bytehive.de to get a email when it works again 
+Due to performance and stabillity issues i will rewrite it next month.
+
 
 Turn your RaspberryPi into an Hyperdeck.
 Warning this is still in Beta.
